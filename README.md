@@ -9,5 +9,5 @@ The repository include three notebooks:
         NN2_keras.ipynb. It is a more complex neural network created with Keras and Tensorflow library using Keras Tuner for hyperparameter search.
         ResNet50_fastai.ipynb. It is a model which applied ResNet50 architecture and used the FastAI library. 
 
-The corresponding datasets for the keras and fastai models are in the following link: https://unirioja-my.sharepoint.com/:f:/g/personal/maalvear_unirioja_es/Er6c7GX0wa9GnSh-8NHbmasBqsu0rWjs6Z__94RpQ4PK8A?e=XikLY9
+The corresponding datasets for the Keras and FastAI models are in the following link: https://unirioja-my.sharepoint.com/:f:/g/personal/maalvear_unirioja_es/Er6c7GX0wa9GnSh-8NHbmasBqsu0rWjs6Z__94RpQ4PK8A?e=XikLY9
 
