@@ -10,5 +10,5 @@ The repository include three notebooks:
         Dataset_fastai.zip. It is the dataset used for the model ResNet50_fastai.ipynb split into the train and test sets.
         Dataset_keras.zip. It is the dataset used for the models trained with Keras and Tensorflow split into the train, valid, and test sets.
 
-The corresponding datasets for the Keras and FastAI models are in the following link: https://unirioja-my.sharepoint.com/:f:/g/personal/maalvear_unirioja_es/Er6c7GX0wa9GnSh-8NHbmasBqsu0rWjs6Z__94RpQ4PK8A?e=XikLY9
+The corresponding datasets for Keras and FastAI models are in the following link: https://unirioja-my.sharepoint.com/:f:/g/personal/maalvear_unirioja_es/Er6c7GX0wa9GnSh-8NHbmasBqsu0rWjs6Z__94RpQ4PK8A?e=XikLY9
 
