@@ -2,7 +2,7 @@
 
 In this work, we presented three image classification models of the vowels of the Spanish Sign language (Lengua de Signos Española - LSE). The vowelsLSE dataset consists of 5 gestures of one person signing each vowel according to LSE, and contains 6078 images. It consists of RGB images in JPG format with a size of 300 x 300. This dataset has been created as a proof of concept and is being worked on for improvement in future updates. 
 
-The repository include three notebooks:
+The repository includes three notebooks:
 
         NN1_keras.ipynb. It is a simple neural network created with Keras and Tensorflow library.
         NN2_keras.ipynb. It is a more complex neural network created with Keras and Tensorflow library using Keras Tuner for hyperparameter search.
